@@ -4,7 +4,7 @@ App de Podcast integrada con la API de AuidioBoom para aprender Next.JS
 
 ## Test
 
-Puedes probarlo en https://podcast-bynuniycwt.now.sh/
+Puedes probarlo en https://platzipodcastluisoteko.now.sh/
 
 ## Como funciona?
 Node 10.3.0
